@@ -16,3 +16,4 @@ website/screenshots/
 
 # Completion Harness state — never task work
 .claude/
+.worktrees/

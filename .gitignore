@@ -13,3 +13,6 @@ __pycache__/
 # this copy fresh on each build; not checked in).
 site/
 website/screenshots/
+
+# Completion Harness state — never task work
+.claude/
